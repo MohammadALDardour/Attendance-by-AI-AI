@@ -1,0 +1,7 @@
+path: C:\Users\ASUS\PycharmProjects\GraduationProject\data
+train: images\train\
+val: images\val
+
+# Classes
+names:
+  0 : Face
