@@ -12,7 +12,7 @@ This project is an attendance system using YOLOv8 for object detection and face 
 ## Tools and Technologies
 - MySQL, PHP, YOLO, OpenCV, Python
 
-## Results
+# Results
 
 ## Confusion Matrix
 ![confusion_matrix_normalized](https://github.com/MohammadALDardour/Attendance-by-AI-AI/assets/145227283/654f5142-af1e-421c-9c84-e2e2117b734c)
